@@ -7,28 +7,87 @@
 
 ---
 
-### 📊 &nbsp;Skill Progress
+### 📦 &nbsp;Skill Boxes + Progress
 
-<!-- I use custom progress bars with inline styling for a clean, modern look -->
 <div align="center">
 
-**C++**  
-<progress value="40" max="100" style="width: 300px; height: 20px; border-radius: 10px; color: #f34b7d;"></progress> `40%`
+<!-- C++ Box -->
+<kbd style="display: inline-block; padding: 12px 20px; border: 2px solid #e1e4e8; border-radius: 12px; margin: 8px; background: #0d1117; width: 260px;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/color/28/000000/c-plus-plus-logo.png" alt="C++"/>
+    <span style="font-size: 1.2rem; font-weight: 600; color: #f0f6fc;">C++</span>
+  </div>
+  <div style="background: #2d333b; height: 12px; border-radius: 20px; overflow: hidden; width: 100%;">
+    <div style="background: #f34b7d; width: 40%; height: 12px;"></div>
+  </div>
+  <span style="float: right; color: #8b949e;">40%</span>
+  <div style="clear: both;"></div>
+</kbd>
 
-**Java**  
-<progress value="25" max="100" style="width: 300px; height: 20px; border-radius: 10px; color: #b07219;"></progress> `25%`
+<!-- Java Box -->
+<kbd style="display: inline-block; padding: 12px 20px; border: 2px solid #e1e4e8; border-radius: 12px; margin: 8px; background: #0d1117; width: 260px;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png" alt="Java"/>
+    <span style="font-size: 1.2rem; font-weight: 600; color: #f0f6fc;">Java</span>
+  </div>
+  <div style="background: #2d333b; height: 12px; border-radius: 20px; overflow: hidden; width: 100%;">
+    <div style="background: #b07219; width: 25%; height: 12px;"></div>
+  </div>
+  <span style="float: right; color: #8b949e;">25%</span>
+  <div style="clear: both;"></div>
+</kbd>
 
-**Python**  
-<progress value="70" max="100" style="width: 300px; height: 20px; border-radius: 10px; color: #3572A5;"></progress> `70%`
+<!-- Python Box -->
+<kbd style="display: inline-block; padding: 12px 20px; border: 2px solid #e1e4e8; border-radius: 12px; margin: 8px; background: #0d1117; width: 260px;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/color/28/000000/python.png" alt="Python"/>
+    <span style="font-size: 1.2rem; font-weight: 600; color: #f0f6fc;">Python</span>
+  </div>
+  <div style="background: #2d333b; height: 12px; border-radius: 20px; overflow: hidden; width: 100%;">
+    <div style="background: #3572A5; width: 70%; height: 12px;"></div>
+  </div>
+  <span style="float: right; color: #8b949e;">70%</span>
+  <div style="clear: both;"></div>
+</kbd>
 
-**C#**  
-<progress value="40" max="100" style="width: 300px; height: 20px; border-radius: 10px; color: #178600;"></progress> `40%`
+<!-- C# Box -->
+<kbd style="display: inline-block; padding: 12px 20px; border: 2px solid #e1e4e8; border-radius: 12px; margin: 8px; background: #0d1117; width: 260px;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/color/28/000000/c-sharp-logo.png" alt="C#"/>
+    <span style="font-size: 1.2rem; font-weight: 600; color: #f0f6fc;">C#</span>
+  </div>
+  <div style="background: #2d333b; height: 12px; border-radius: 20px; overflow: hidden; width: 100%;">
+    <div style="background: #178600; width: 40%; height: 12px;"></div>
+  </div>
+  <span style="float: right; color: #8b949e;">40%</span>
+  <div style="clear: both;"></div>
+</kbd>
 
-**C**  
-<progress value="10" max="100" style="width: 300px; height: 20px; border-radius: 10px; color: #555555;"></progress> `10%`
+<!-- C Box -->
+<kbd style="display: inline-block; padding: 12px 20px; border: 2px solid #e1e4e8; border-radius: 12px; margin: 8px; background: #0d1117; width: 260px;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/color/28/000000/c-programming.png" alt="C"/>
+    <span style="font-size: 1.2rem; font-weight: 600; color: #f0f6fc;">C</span>
+  </div>
+  <div style="background: #2d333b; height: 12px; border-radius: 20px; overflow: hidden; width: 100%;">
+    <div style="background: #555555; width: 10%; height: 12px;"></div>
+  </div>
+  <span style="float: right; color: #8b949e;">10%</span>
+  <div style="clear: both;"></div>
+</kbd>
 
-**HTML**  
-<progress value="70" max="100" style="width: 300px; height: 20px; border-radius: 10px; color: #e34c26;"></progress> `70%`
+<!-- HTML Box -->
+<kbd style="display: inline-block; padding: 12px 20px; border: 2px solid #e1e4e8; border-radius: 12px; margin: 8px; background: #0d1117; width: 260px;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/color/28/000000/html-5.png" alt="HTML"/>
+    <span style="font-size: 1.2rem; font-weight: 600; color: #f0f6fc;">HTML</span>
+  </div>
+  <div style="background: #2d333b; height: 12px; border-radius: 20px; overflow: hidden; width: 100%;">
+    <div style="background: #e34c26; width: 70%; height: 12px;"></div>
+  </div>
+  <span style="float: right; color: #8b949e;">70%</span>
+  <div style="clear: both;"></div>
+</kbd>
 
 </div>
 
