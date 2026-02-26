@@ -18,7 +18,7 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://github.com/your_github_username.png?size=200" width="200px" style="border-radius: 50%; border: 4px solid #00F7B5; box-shadow: 0 0 30px #00F7B5;" alt="KIKO"/>
+        <img src="https://github.com/LYKIKO.png?size=200" width="200px" style="border-radius: 50%; border: 4px solid #00F7B5; box-shadow: 0 0 30px #00F7B5;" alt="KIKO"/>
         <h2 style="margin-top: 10px;">✨ KIKO ✨</h2>
         <p>
           <img src="https://img.shields.io/badge/Location-Earth-blue?style=flat-square&logo=google-maps" />
@@ -48,7 +48,7 @@
 
 <br/>
 
-<!-- Tech Mastery Dashboard -->
+<!-- Tech Stack Showcase -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
   Tech Mastery Dashboard
@@ -56,87 +56,92 @@
 </h2>
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 1200px; margin: 0 auto;">
-    
-<!-- Python Card -->
-<div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 25px; padding: 25px; width: 300px; border: 1px solid #30363d; box-shadow: 0 10px 30px -15px #00F7B5;">
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" style="filter: drop-shadow(0 0 5px #3572A5);"/>
-    <h3 style="margin: 0; font-size: 28px; color: #00F7B5;">Python</h3>
-  </div>
-  <div style="background: #2d333b; height: 30px; border-radius: 20px; overflow: hidden; margin: 15px 0; position: relative; box-shadow: inset 0 2px 5px rgba(0,0,0,0.5);">
-    <div style="background: linear-gradient(90deg, #3572A5, #4b8bb5, #6ba9d9); width: 70%; height: 30px; border-radius: 20px; box-shadow: 0 0 15px #3572A5;"></div>
-    <span style="position: absolute; right: 15px; top: 5px; color: white; font-weight: bold; text-shadow: 2px 2px 4px black; font-size: 14px;">70%</span>
-  </div>
-  <p style="margin: 10px 0 0; color: #8b949e; font-size: 15px;">✨ Advanced • Django • Flask ✨</p>
-</div>
-
-<!-- HTML Card -->
-<div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 25px; padding: 25px; width: 300px; border: 1px solid #30363d; box-shadow: 0 10px 30px -15px #00F7B5;">
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px" style="filter: drop-shadow(0 0 5px #e34c26);"/>
-    <h3 style="margin: 0; font-size: 28px; color: #00F7B5;">HTML</h3>
-  </div>
-  <div style="background: #2d333b; height: 30px; border-radius: 20px; overflow: hidden; margin: 15px 0; position: relative; box-shadow: inset 0 2px 5px rgba(0,0,0,0.5);">
-    <div style="background: linear-gradient(90deg, #e34c26, #f06529, #f47e3d); width: 70%; height: 30px; border-radius: 20px; box-shadow: 0 0 15px #e34c26;"></div>
-    <span style="position: absolute; right: 15px; top: 5px; color: white; font-weight: bold; text-shadow: 2px 2px 4px black; font-size: 14px;">70%</span>
-  </div>
-  <p style="margin: 10px 0 0; color: #8b949e; font-size: 15px;">✨ Semantic • Responsive • SEO ✨</p>
-</div>
-
-<!-- C++ Card -->
-<div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 25px; padding: 25px; width: 300px; border: 1px solid #30363d; box-shadow: 0 10px 30px -15px #00F7B5;">
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px" style="filter: drop-shadow(0 0 5px #f34b7d);"/>
-    <h3 style="margin: 0; font-size: 28px; color: #00F7B5;">C++</h3>
-  </div>
-  <div style="background: #2d333b; height: 30px; border-radius: 20px; overflow: hidden; margin: 15px 0; position: relative; box-shadow: inset 0 2px 5px rgba(0,0,0,0.5);">
-    <div style="background: linear-gradient(90deg, #f34b7d, #ff6b9d, #ff8bbd); width: 40%; height: 30px; border-radius: 20px; box-shadow: 0 0 15px #f34b7d;"></div>
-    <span style="position: absolute; right: 15px; top: 5px; color: white; font-weight: bold; text-shadow: 2px 2px 4px black; font-size: 14px;">40%</span>
-  </div>
-  <p style="margin: 10px 0 0; color: #8b949e; font-size: 15px;">✨ OOP • Data Structures ✨</p>
-</div>
-
-<!-- Java Card -->
-<div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 25px; padding: 25px; width: 300px; border: 1px solid #30363d; box-shadow: 0 10px 30px -15px #00F7B5;">
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" style="filter: drop-shadow(0 0 5px #b07219);"/>
-    <h3 style="margin: 0; font-size: 28px; color: #00F7B5;">Java</h3>
-  </div>
-  <div style="background: #2d333b; height: 30px; border-radius: 20px; overflow: hidden; margin: 15px 0; position: relative; box-shadow: inset 0 2px 5px rgba(0,0,0,0.5);">
-    <div style="background: linear-gradient(90deg, #b07219, #d8932b, #e9a23b); width: 25%; height: 30px; border-radius: 20px; box-shadow: 0 0 15px #b07219;"></div>
-    <span style="position: absolute; right: 15px; top: 5px; color: white; font-weight: bold; text-shadow: 2px 2px 4px black; font-size: 14px;">25%</span>
-  </div>
-  <p style="margin: 10px 0 0; color: #8b949e; font-size: 15px;">✨ Spring • Android ✨</p>
-</div>
-
-<!-- C# Card -->
-<div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 25px; padding: 25px; width: 300px; border: 1px solid #30363d; box-shadow: 0 10px 30px -15px #00F7B5;">
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50px" style="filter: drop-shadow(0 0 5px #178600);"/>
-    <h3 style="margin: 0; font-size: 28px; color: #00F7B5;">C#</h3>
-  </div>
-  <div style="background: #2d333b; height: 30px; border-radius: 20px; overflow: hidden; margin: 15px 0; position: relative; box-shadow: inset 0 2px 5px rgba(0,0,0,0.5);">
-    <div style="background: linear-gradient(90deg, #178600, #2ea81e, #4ac93a); width: 40%; height: 30px; border-radius: 20px; box-shadow: 0 0 15px #178600;"></div>
-    <span style="position: absolute; right: 15px; top: 5px; color: white; font-weight: bold; text-shadow: 2px 2px 4px black; font-size: 14px;">40%</span>
-  </div>
-  <p style="margin: 10px 0 0; color: #8b949e; font-size: 15px;">✨ .NET • Unity ✨</p>
-</div>
-
-<!-- C Card -->
-<div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 25px; padding: 25px; width: 300px; border: 1px solid #30363d; box-shadow: 0 10px 30px -15px #00F7B5;">
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" style="filter: drop-shadow(0 0 5px #555555);"/>
-    <h3 style="margin: 0; font-size: 28px; color: #00F7B5;">C</h3>
-  </div>
-  <div style="background: #2d333b; height: 30px; border-radius: 20px; overflow: hidden; margin: 15px 0; position: relative; box-shadow: inset 0 2px 5px rgba(0,0,0,0.5);">
-    <div style="background: linear-gradient(90deg, #555555, #7a7a7a, #9f9f9f); width: 10%; height: 30px; border-radius: 20px; box-shadow: 0 0 15px #555555;"></div>
-    <span style="position: absolute; right: 15px; top: 5px; color: white; font-weight: bold; text-shadow: 2px 2px 4px black; font-size: 14px;">10%</span>
-  </div>
-  <p style="margin: 10px 0 0; color: #8b949e; font-size: 15px;">✨ Embedded • Basics ✨</p>
-</div>
-
-  </div>
+  <!-- First Row -->
+  <table style="width: 90%; margin: 20px auto; border-collapse: collapse;">
+    <tr>
+      <td width="33%" style="padding: 15px;">
+        <div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 20px; padding: 20px; box-shadow: 5px 5px 15px #0a0c10, -5px -5px 15px #1e242c;">
+          <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+            <img src="https://img.icons8.com/color/48/000000/python.png" width="40px"/>
+            <h3 style="margin: 0;">Python</h3>
+          </div>
+          <div style="background: #2d333b; height: 25px; border-radius: 30px; overflow: hidden; position: relative;">
+            <div style="background: linear-gradient(90deg, #3572A5, #4b8bb5); width: 70%; height: 25px; border-radius: 30px;"></div>
+            <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">70%</span>
+          </div>
+          <p style="margin-top: 10px; color: #8b949e;">Advanced • Django • Flask</p>
+        </div>
+      </td>
+      <td width="33%" style="padding: 15px;">
+        <div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 20px; padding: 20px; box-shadow: 5px 5px 15px #0a0c10, -5px -5px 15px #1e242c;">
+          <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+            <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40px"/>
+            <h3 style="margin: 0;">HTML</h3>
+          </div>
+          <div style="background: #2d333b; height: 25px; border-radius: 30px; overflow: hidden; position: relative;">
+            <div style="background: linear-gradient(90deg, #e34c26, #f06529); width: 70%; height: 25px; border-radius: 30px;"></div>
+            <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">70%</span>
+          </div>
+          <p style="margin-top: 10px; color: #8b949e;">Semantic • Responsive • SEO</p>
+        </div>
+      </td>
+      <td width="33%" style="padding: 15px;">
+        <div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 20px; padding: 20px; box-shadow: 5px 5px 15px #0a0c10, -5px -5px 15px #1e242c;">
+          <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+            <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40px"/>
+            <h3 style="margin: 0;">C++</h3>
+          </div>
+          <div style="background: #2d333b; height: 25px; border-radius: 30px; overflow: hidden; position: relative;">
+            <div style="background: linear-gradient(90deg, #f34b7d, #ff6b9d); width: 40%; height: 25px; border-radius: 30px;"></div>
+            <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">40%</span>
+          </div>
+          <p style="margin-top: 10px; color: #8b949e;">OOP • Data Structures</p>
+        </div>
+      </td>
+    </tr>
+    <!-- Second Row -->
+    <tr>
+      <td width="33%" style="padding: 15px;">
+        <div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 20px; padding: 20px; box-shadow: 5px 5px 15px #0a0c10, -5px -5px 15px #1e242c;">
+          <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40px"/>
+            <h3 style="margin: 0;">Java</h3>
+          </div>
+          <div style="background: #2d333b; height: 25px; border-radius: 30px; overflow: hidden; position: relative;">
+            <div style="background: linear-gradient(90deg, #b07219, #d8932b); width: 25%; height: 25px; border-radius: 30px;"></div>
+            <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">25%</span>
+          </div>
+          <p style="margin-top: 10px; color: #8b949e;">Spring • Android</p>
+        </div>
+      </td>
+      <td width="33%" style="padding: 15px;">
+        <div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 20px; padding: 20px; box-shadow: 5px 5px 15px #0a0c10, -5px -5px 15px #1e242c;">
+          <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+            <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="40px"/>
+            <h3 style="margin: 0;">C#</h3>
+          </div>
+          <div style="background: #2d333b; height: 25px; border-radius: 30px; overflow: hidden; position: relative;">
+            <div style="background: linear-gradient(90deg, #178600, #2ea81e); width: 40%; height: 25px; border-radius: 30px;"></div>
+            <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">40%</span>
+          </div>
+          <p style="margin-top: 10px; color: #8b949e;">.NET • Unity</p>
+        </div>
+      </td>
+      <td width="33%" style="padding: 15px;">
+        <div style="background: linear-gradient(145deg, #161b22, #0d1117); border-radius: 20px; padding: 20px; box-shadow: 5px 5px 15px #0a0c10, -5px -5px 15px #1e242c;">
+          <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+            <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40px"/>
+            <h3 style="margin: 0;">C</h3>
+          </div>
+          <div style="background: #2d333b; height: 25px; border-radius: 30px; overflow: hidden; position: relative;">
+            <div style="background: linear-gradient(90deg, #555555, #7a7a7a); width: 10%; height: 25px; border-radius: 30px;"></div>
+            <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">10%</span>
+          </div>
+          <p style="margin-top: 10px; color: #8b949e;">Embedded • Basics</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -168,43 +173,30 @@
 
 <br/>
 
-<!-- Contact Me - Fixed and Enhanced -->
+<!-- Contact Section with Glassmorphism -->
 <h2 align="center">📫 Connect With Me 📫</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 40px 0;">
-  
-  <!-- Facebook Card -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://facebook.com/your_username" style="text-decoration: none;">
-    <div style="background: linear-gradient(145deg, #1877F2, #0a5fd7); padding: 25px 50px; border-radius: 30px; box-shadow: 0 15px 35px rgba(24, 119, 242, 0.4); transition: all 0.4s ease; border: 2px solid #ffffff30; min-width: 150px;">
-      <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-      <h3 style="color: white; margin: 15px 0 5px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 24px;">Facebook</h3>
-      <p style="color: #ffffff90; margin: 0; font-size: 14px;">@KIKO</p>
+    <div style="background: rgba(24, 119, 242, 0.2); backdrop-filter: blur(10px); padding: 20px 30px; border-radius: 20px; border: 2px solid #1877F2; transition: transform 0.3s;">
+      <img src="https://img.icons8.com/color/48/000000/facebook.png" width="40px"/><br/>
+      <span style="color: white;">Facebook</span>
     </div>
   </a>
-  
-  <!-- Discord Card -->
   <a href="https://discordapp.com/users/your_discord_id" style="text-decoration: none;">
-    <div style="background: linear-gradient(145deg, #5865F2, #4752c4); padding: 25px 50px; border-radius: 30px; box-shadow: 0 15px 35px rgba(88, 101, 242, 0.4); transition: all 0.4s ease; border: 2px solid #ffffff30; min-width: 150px;">
-      <img src="https://img.icons8.com/fluency/48/000000/discord.png" width="50px" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-      <h3 style="color: white; margin: 15px 0 5px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 24px;">Discord</h3>
-      <p style="color: #ffffff90; margin: 0; font-size: 14px;">@KIKO#1234</p>
+    <div style="background: rgba(88, 101, 242, 0.2); backdrop-filter: blur(10px); padding: 20px 30px; border-radius: 20px; border: 2px solid #5865F2; transition: transform 0.3s;">
+      <img src="https://img.icons8.com/color/48/000000/discord.png" width="40px"/><br/>
+      <span style="color: white;">Discord</span>
     </div>
   </a>
-  
-  <!-- Telegram Card -->
   <a href="https://t.me/your_username" style="text-decoration: none;">
-    <div style="background: linear-gradient(145deg, #0088cc, #006699); padding: 25px 50px; border-radius: 30px; box-shadow: 0 15px 35px rgba(0, 136, 204, 0.4); transition: all 0.4s ease; border: 2px solid #ffffff30; min-width: 150px;">
-      <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="50px" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-      <h3 style="color: white; margin: 15px 0 5px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-size: 24px;">Telegram</h3>
-      <p style="color: #ffffff90; margin: 0; font-size: 14px;">@KIKO</p>
+    <div style="background: rgba(0, 136, 204, 0.2); backdrop-filter: blur(10px); padding: 20px 30px; border-radius: 20px; border: 2px solid #0088cc; transition: transform 0.3s;">
+      <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40px"/><br/>
+      <span style="color: white;">Telegram</span>
     </div>
   </a>
-  
 </div>
 
-<!-- Contact Footer Text -->
-<p align="center">
-  <i style="color: #8b949e; font-size: 18px;">💬 Let's collaborate on something amazing! 💬</i>
-</p>
+<br/>
 
 <!-- Footer Wave -->
 <div align="center">
@@ -214,14 +206,15 @@
 <!-- Hover Effects Style -->
 <style>
   a div:hover {
-    transform: scale(1.05) translateY(-10px);
-    box-shadow: 0 25px 45px -10px currentColor;
-    transition: all 0.4s ease;
-  }
-  div[style*="background: linear-gradient(145deg, #161b22"]:hover {
-    transform: scale(1.02);
-    border-color: #00F7B5 !important;
-    box-shadow: 0 20px 40px -15px #00F7B5 !important;
+    transform: scale(1.05);
+    box-shadow: 0 0 30px currentColor;
     transition: all 0.3s ease;
+  }
+  table div {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  table div:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px -10px #00F7B5;
   }
 </style>
