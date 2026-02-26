@@ -160,17 +160,6 @@
 
 <br/>
 
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📊 GitHub Analytics 📊</h2>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LYKIKO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7B5&icon_color=00F7B5" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LYKIKO&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7B5&fire=00F7B5&currStreakLabel=00F7B5" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYKIKO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7B5" />
-</div>
-
 <br/>
 
 <!-- Contact Section with Glassmorphism -->
