@@ -41,7 +41,6 @@
             <li>💡 Fun fact: I can solve a Rubik's cube in under 2 minutes!</li>
           </ul>
         </details>
-        
       </div>
     </td>
   </tr>
