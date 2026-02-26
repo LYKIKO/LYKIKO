@@ -7,8 +7,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_github_username&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your_github_username?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=LYKIKO&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LYKIKO?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers" />
 </div>
 
 <br/>
@@ -18,12 +18,12 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://github.com/LYKIKO.png?size=200" width="200px" style="border-radius: 50%; border: 4px solid #00F7B5; box-shadow: 0 0 30px #00F7B5;" alt="KIKO"/>
+        <!-- <img src="https://github.com/LYKIKO.png?size=200" width="200px" style="border-radius: 50%; border: 4px solid #00F7B5; box-shadow: 0 0 30px #00F7B5;" alt="KIKO"/> -->
         <h2 style="margin-top: 10px;">✨ KIKO ✨</h2>
-        <p>
+        <!-- <p>
           <img src="https://img.shields.io/badge/Location-Earth-blue?style=flat-square&logo=google-maps" />
           <img src="https://img.shields.io/badge/Role-Developer-brightgreen?style=flat-square&logo=visual-studio-code" />
-        </p>
+        </p> -->
       </div>
     </td>
     <td width="70%">
@@ -41,6 +41,7 @@
             <li>💡 Fun fact: I can solve a Rubik's cube in under 2 minutes!</li>
           </ul>
         </details>
+        
       </div>
     </td>
   </tr>
@@ -51,7 +52,7 @@
 <!-- Tech Stack Showcase -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
-  Tech Mastery Dashboard
+  My Skill
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">
 </h2>
 
@@ -69,7 +70,7 @@
             <div style="background: linear-gradient(90deg, #3572A5, #4b8bb5); width: 70%; height: 25px; border-radius: 30px;"></div>
             <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">70%</span>
           </div>
-          <p style="margin-top: 10px; color: #8b949e;">Advanced • Django • Flask</p>
+          <!-- <p style="margin-top: 10px; color: #8b949e;">Advanced • Django • Flask</p> -->
         </div>
       </td>
       <td width="33%" style="padding: 15px;">
@@ -82,7 +83,7 @@
             <div style="background: linear-gradient(90deg, #e34c26, #f06529); width: 70%; height: 25px; border-radius: 30px;"></div>
             <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">70%</span>
           </div>
-          <p style="margin-top: 10px; color: #8b949e;">Semantic • Responsive • SEO</p>
+          <!-- <p style="margin-top: 10px; color: #8b949e;">Semantic • Responsive • SEO</p> -->
         </div>
       </td>
       <td width="33%" style="padding: 15px;">
@@ -95,7 +96,7 @@
             <div style="background: linear-gradient(90deg, #f34b7d, #ff6b9d); width: 40%; height: 25px; border-radius: 30px;"></div>
             <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">40%</span>
           </div>
-          <p style="margin-top: 10px; color: #8b949e;">OOP • Data Structures</p>
+          <!-- <p style="margin-top: 10px; color: #8b949e;">OOP • Data Structures</p> -->
         </div>
       </td>
     </tr>
@@ -111,7 +112,7 @@
             <div style="background: linear-gradient(90deg, #b07219, #d8932b); width: 25%; height: 25px; border-radius: 30px;"></div>
             <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">25%</span>
           </div>
-          <p style="margin-top: 10px; color: #8b949e;">Spring • Android</p>
+          <!-- <p style="margin-top: 10px; color: #8b949e;">Spring • Android</p> -->
         </div>
       </td>
       <td width="33%" style="padding: 15px;">
@@ -124,7 +125,7 @@
             <div style="background: linear-gradient(90deg, #178600, #2ea81e); width: 40%; height: 25px; border-radius: 30px;"></div>
             <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">40%</span>
           </div>
-          <p style="margin-top: 10px; color: #8b949e;">.NET • Unity</p>
+          <!-- <p style="margin-top: 10px; color: #8b949e;">.NET • Unity</p> -->
         </div>
       </td>
       <td width="33%" style="padding: 15px;">
@@ -137,7 +138,7 @@
             <div style="background: linear-gradient(90deg, #555555, #7a7a7a); width: 10%; height: 25px; border-radius: 30px;"></div>
             <span style="position: absolute; right: 10px; top: 2px; color: white; font-weight: bold; text-shadow: 1px 1px 2px black;">10%</span>
           </div>
-          <p style="margin-top: 10px; color: #8b949e;">Embedded • Basics</p>
+          <!-- <p style="margin-top: 10px; color: #8b949e;">Embedded • Basics</p> -->
         </div>
       </td>
     </tr>
@@ -153,9 +154,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> -->
 </p>
 
 <br/>
@@ -163,12 +164,12 @@
 <!-- GitHub Stats with Animation -->
 <h2 align="center">📊 GitHub Analytics 📊</h2>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7B5&icon_color=00F7B5" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7B5&fire=00F7B5&currStreakLabel=00F7B5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LYKIKO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7B5&icon_color=00F7B5" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LYKIKO&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7B5&fire=00F7B5&currStreakLabel=00F7B5" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7B5" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYKIKO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7B5" />
 </div>
 
 <br/>
