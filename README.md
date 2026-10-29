@@ -14,8 +14,6 @@
 
 I'm a developer who enjoys building clean, practical solutions to complex problems. I care about readable code, continuous learning, and making things that are genuinely useful.
 
-**Currently learning:** Advanced Python and cloud architecture
-
 ## Skills
 
 | Language | Level |
@@ -30,7 +28,10 @@ I'm a developer who enjoys building clean, practical solutions to complex proble
 
 ## Tools
 
-VS Code · Git · GitHub · Windows
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 ## Contact
 
