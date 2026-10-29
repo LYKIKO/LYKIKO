@@ -81,21 +81,6 @@ I'm passionate about programming and technology. I enjoy creating new tools, dev
 
 ---
 
-### 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" />
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-
-</div>
-
----
 
 ### 🌐 Connect With Me
 
@@ -115,11 +100,6 @@ I'm passionate about programming and technology. I enjoy creating new tools, dev
 
 ---
 
-<div align="center">
-
-### 💙 Thanks for Visiting My Profile!
-
-**"Keep Learning. Keep Coding. Keep Improving."**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer" />
 
