@@ -30,7 +30,7 @@ I'm passionate about programming and technology. I enjoy creating new tools, dev
 - 🎓 Currently studying in **Grade 12**
 - 🎂 **18 years old** | 📍 **Cambodia 🇰🇭**
 - 💻 Love creating **new tools and websites**
-- 🛒 Enjoy developing and upgrading my **e-commerce store**
+- 🛒 Enjoy developing 
 - 🌱 Always learning **new programming skills and technologies**
 - 🚀 My goal is to become a better developer every day
 
@@ -101,13 +101,13 @@ I'm passionate about programming and technology. I enjoy creating new tools, dev
 
 <div align="center">
 
-<a href="https://t.me/your_username">
+<a href="https://t.me/AHHEANG1">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://discord.com/users/your_discord_id">
+<a href="https://discord.com/users/1349989942369189908">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:lyheangzzff@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
