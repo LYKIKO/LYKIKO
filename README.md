@@ -11,7 +11,8 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Tools;Web+Development+%26+Automation;Always+Learning+Something+New!" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub+Profile!;Enjoying+Life+Every+Day;Learning+New+Technologies;Working+Hard+Every+Day!" alt="Typing SVG" />
 
 <br>
 
