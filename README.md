@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=KIKO&fontSize=80&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=LyHeang&fontSize=80&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" />
 
-### 👋 Hello World! I'm KIKO
+### 👋 Hello World! I'm Ly Heang
 
 **Student • Developer • Tech Enthusiast**
 
@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **KIKO**, an 18-year-old Grade 12 student from **Cambodia 🇰🇭**.
+Hi! I'm **Ly Heang**, an 18-year-old Grade 12 student from **Cambodia 🇰🇭**.
 
 I'm passionate about programming and technology. I enjoy creating new tools, developing and improving my e-commerce website, and exploring new ideas.
 
