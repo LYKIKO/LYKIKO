@@ -2,11 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KIKO&fontSize=80&fontAlignY=35&fontColor=white" />
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7B5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-
-</div>
 
 ---
 
